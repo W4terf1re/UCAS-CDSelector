@@ -12,7 +12,7 @@ UCAS Course Selector
     + `$ python CDSelector.py`
     + Done
 + If not done 
-    + try `$ pip install -r requirement.txt`  
+    + try `$ pip install -r requirements.txt`  
 
 #  reference documentation Blog Article
 http://blog.csdn.net/okcd00/article/details/72827861
